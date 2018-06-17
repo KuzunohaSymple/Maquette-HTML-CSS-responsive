@@ -1,0 +1,1609 @@
+.image_maquette
+{
+    position: absolute;
+    opacity: 0.5;
+    width: 1663px;
+    height: 2203px;
+    margin: auto;
+    z-index: 1;
+}
+
+.h1
+{
+    color:transparent;
+    font-size:0%;
+}
+
+.body
+{
+    width:1663px;
+    height:2203px;
+}
+
+.header
+{
+    border: 1px solid transparent;
+    height: 29.05%;
+    border-bottom: 1px solid black;
+}
+
+.Safy_accueil
+{
+    display:flex;
+    justify-content: flex-start;
+    border-top: 1px solid #2e2823;
+    border-bottom: 1px solid #2e2823;
+    height:20.2%;
+    
+}
+
+.Article_Safy
+{
+    border: 1px solid transparent;
+    height:34.1%;
+    margin: 0% 21.7%;
+}
+
+.Trip
+{
+    display:flex;
+    justify-content: flex-start;
+    margin-top:4%;
+
+}
+
+.tTravel
+{
+    border:1px solid transparent;
+}
+
+.li
+{
+    display: inline;
+}
+
+.DDestination, .photo
+{
+    display:flex;
+    justify-content: flex-start;
+}
+
+.reseau_social
+{
+    height:9.2%;
+}
+
+.facebook
+{
+    margin-left: 21.75%;
+    margin-right:0.15%;
+    margin-top:1%;
+}
+
+.Safy
+{
+    height: 92px;
+    margin-top: 1.2%;
+    margin-left: 21.8%;
+    width: 278.8px;
+}
+
+.ul
+{
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 25.3%;
+    margin-top: 9.9%;
+    width: 100%; 
+}
+
+.ul,.p,.li,.h3,.photo_us,.photo_carte,.photo_velo,.Voyage
+{
+    font-family:Arial;
+}
+
+.h4
+{
+    font-weight:lighter;
+    font-size: 25px;
+    letter-spacing: -1.6px;
+}
+
+.Drapeau,.decouverte
+{
+    display:flex;
+    justify-content: flex-start;
+}
+
+.decouverte
+{
+    border:1px solid transparent;
+    background-color:#9999ff;
+    color:white;
+}
+
+.amazing
+{
+    height: 134px;
+    width: 95%; 
+}
+
+.photo_feu_de_bois
+{
+    height: 107px;
+    margin-top: 5%;
+    margin-left: 3%;
+}
+
+.structured_and_amazing
+{
+    margin-top: 5.7%;
+    margin-left: 3%;
+    line-height: 138%;
+    letter-spacing: 0.1px;
+}
+
+.book_your_trip
+{
+    width: 95.3%;
+    margin-left: 2%;
+    height: 133px;
+}
+
+.more_intensely
+{
+    margin-left: 4%;
+    height: 124px;
+}
+
+.h3
+{
+    font-size: 18.4px;
+}
+
+.book_trip
+{
+    margin-left: 3.5%;
+    line-height: 143%;
+    margin-top: 5.5%; 
+}
+
+.photo_typie
+{
+    height: 103px;
+    margin-top: 5.1%;
+    margin-left: 3.4%; 
+}
+
+.photo_ours
+{
+    margin-top: 5%;
+    height: 96px;
+    margin-left: 3%;
+}
+
+.people_live_intensely
+{
+    line-height: 26px;
+    margin-left: 3.5%;
+    margin-top: 5.4%;
+    letter-spacing: 0.3px;  
+}
+
+.decouverte_amazing,.trip,.live_intensely,.photo_velo,.photo_carte
+{
+    font-size: 13px;
+}
+
+.decouverte_amazing
+{
+    word-spacing: -1px;
+    margin-top: 4.7%;
+    line-height: 22px; 
+    margin-right: 1%;
+}
+
+.select
+{
+    border: 1px solid transparent;
+    background-color: transparent;
+    font-weight:bold;
+    color:black;
+}
+
+.Home
+{
+    margin-right: 3.8%;
+}
+
+.Book
+{
+    margin-right: 4%;
+}
+
+.Destination
+{
+    margin-right: 5.3%;
+}
+
+.Price
+{
+    margin-right: 4.6%;
+}
+
+.Alerts
+{
+    margin-right: 4.7%;
+}
+
+.trip
+{
+    margin-top: 4.4%;
+    margin-left: 2.1%;
+    word-spacing: -1.5px;
+    line-height: 22px; 
+}
+
+.live_intensely
+{
+    margin-left: 4.3%;
+    line-height: 22px;
+    margin-top: 4.4%;
+    word-spacing: -2px; 
+}
+
+.Uus
+{
+    display: flex;
+    justify-content: flex-start;
+    margin: 0.7% 20.8% 0%;
+}
+
+.about_us
+{
+    margin-left: 1.4%;
+    font-size: 12px;
+    line-height: 24px;
+    margin-top: 0.4%;
+    margin-right: 1.5%;
+    border: 1px solid transparent;
+    width: 97.2%;
+    height: 411px;
+    color:#5f6769;
+}
+
+.why_us
+{
+    border: 1px solid transparent;
+    height: 428px;
+    margin-right: 1.7%;
+    margin-left: 0.7%;
+    margin-top: 0.2%;
+    color:#5f6769;
+}
+
+p .why_us
+{
+    font-size: 13px;
+}
+
+p .about_us
+{
+    margin-top: 6.4%;
+}
+
+.underline
+{
+    border-bottom: 1px solid #d4e7e7;
+    height: 10.3%;
+}
+
+.us
+{
+    margin-top: 6.8%;
+    word-spacing: 1px;
+    line-height: 22.1px;
+    letter-spacing: 0px;
+}
+
+.about
+{
+    margin-top: 4%;
+    line-height: 22.2px;
+    letter-spacing: 0.4px;
+    word-spacing: -2.1px;
+}
+
+.underline_why
+{
+    border-bottom:1px solid #d4e7e7;
+    height: 45px;
+}
+
+.Why_us
+{
+    margin-top: 7.4%;
+    margin-left: 0.3%;
+}
+
+.photo_us
+{
+    font-size: 13px;
+    line-height: 22.2px;
+    margin-top: 6.2%;
+    margin-left: 3.3%;
+    word-spacing: -2px;
+}
+
+.boussole
+{
+    margin-top: 14%;
+}
+
+.carte
+{
+    margin-top: -14.2%;
+}
+
+.velo
+{
+    margin-top: -11.5%;
+}
+
+.photo_carte
+{
+    margin-left: 3.4%;
+    margin-top: -0.1%;
+    line-height: 22px;
+    letter-spacing: -0.1px;
+    word-spacing: -1.3px;
+}
+
+.photo_velo
+{
+    margin-left: 3.6%;
+    margin-top: 0.8%;
+    line-height: 22px;
+    letter-spacing: -0.3px;
+    word-spacing: 0.1px;
+}
+
+.travel
+{
+    margin: 0 21.4% 4.3%;
+    color:#5f6769;
+}
+
+.Travel
+{
+    font-size: 22.4px;
+    font-family: Arial;
+    margin-top: 2.4%;
+    margin-left: 0.6%;
+    letter-spacing: 0px; 
+}
+
+.how_to_travel
+{
+    font-size: 12px;
+    margin-top: 1.2%;
+    margin-left: 0.6%;
+    line-height: 22.3px;
+    word-spacing: 0.6px;
+    letter-spacing: 0.1px;
+}
+
+.diaporama
+{
+    display: flex;
+    justify-content: flex-start;
+    width: 56.6%;
+    height: 56%;
+    border: 1px solid transparent;
+    overflow: scroll;
+    margin-top: 1.5%;
+    margin-left: 21.7%;
+}
+
+.Desti
+{
+    font-size: 21px;
+    margin-top: 2.5%;
+}
+
+.Drapeau
+{
+    margin-top: 3.2%;
+    justify-content: space-around;
+    border: 1px solid transparent;
+    font-weight: bold;
+}
+
+.contour
+{
+    border: 1px solid #cccccc;
+    padding: 4px;
+    margin-bottom: -2%;
+}
+
+.image
+{
+    margin: 0;
+}
+
+.desti
+{
+    border-bottom: 1px solid #dddddd;
+    height: 40.1px;
+}
+
+.trait
+{
+    border-top: 1px solid #d4e7e7;
+    margin-top: -2.5%;
+}
+
+.submit
+{
+    margin-left: 0.5%;
+    width: 13%;
+    height: 46.9px;
+    margin-top: -0.2%;
+    font-family: Arial;
+    font-size: 17px;
+    border: 1px solid #49583f;
+    border-radius: 4px;
+    background-color: #80ac69;
+    color: white;
+}
+
+.dhome,.dbook,.ddestinations,.dprices,.dalerts,.dcontact
+{
+    font-size: 12px;
+    font-weight:bold;
+}
+
+.dhome
+{
+    margin: 1.45% 2.4% 0% 21.7%;
+}
+
+.dbook
+{
+    margin: 1.45% 2.4% 0% -0.1%;
+}
+
+.ddestinations
+{
+    margin: 1.45% 2.3% 0% 0%;    
+}
+
+.dprices
+{
+    margin: 1.45% 2.3% 0% 0.1%;
+}
+
+.dalerts
+{
+    margin: 1.45% 2.1% 0% 0%
+}
+
+.dcontact
+{
+    margin: 1.45% 0% 0% 0.3%;
+}
+
+.copyright
+{
+    font-size: 10px;
+    margin: 1.7% 0% 0% 21.8%;
+    word-spacing: 1px;
+}
+
+.bouton_slide
+{
+    margin: -1.8% 44.1% 0%;
+}
+
+.slid
+{
+    margin-left: 2.5%;
+}
+
+.left,.right
+{
+    width: 22px;
+    position: relative;
+}
+
+.right
+{
+    bottom: 16.4%;
+    left: 99.2%;
+}
+
+.left
+{
+    bottom: 16.4%;
+    right: 4.2%;
+}
+
+.header,.footer
+{
+    background-color: #ccffff;
+}
+
+.Safy_accueil,.Voyage
+{
+    background-color:#9a99ff;
+}
+
+.Voyage
+{
+    height: 121px;
+    border-top: 1px solid black;
+}
+
+.lien
+{
+    color:#e2516a;
+}
+
+.p
+{
+    color:#8e7e80;
+}
+
+.fleche_gauche,.fleche_droite
+{
+    position:relative;
+}
+
+.fleche_gauche
+{
+    bottom: 30.2%;
+    left: 72.3%;
+}
+
+.fleche_droite
+{
+    bottom: 30.2%;
+    left: 22%;
+}
+
+.ance
+{
+    font-size:0px;
+    color: transparent;
+}
+
+.ddcontact
+{
+    color:transparent;
+    font-size:0px;
+}
+
+@media screen and (min-width:848px) and (max-width:1662px)
+{
+    .image_maquette
+    {
+        position: absolute;
+        opacity: 0.5;
+        width: 848px;
+        height: 2427px;
+        margin: 0;
+        z-index: 1;
+    }
+
+    .body
+    {
+        width:848px;
+        height:2427px;
+    }
+
+    .header
+    {
+        height: 25.45%;
+    }
+
+    .reseau_social 
+    {
+        height: 8.3%;
+    }
+
+    .facebook
+    {
+        margin-left: 5.75%;
+        margin-right: 0.35%;
+        margin-top: 2%;
+    }
+
+    .Safy_accueil
+    {
+        height: 29.3%;
+        margin-top: 0.9%;
+    }
+    
+    .Safy 
+    {
+        height: 92px;
+        margin-top: 2.3%;
+        margin-left: 5.8%;
+        width: 278.8px;
+    }
+
+    .ul 
+    {
+        margin-left: -79.9%;
+        margin-top: 32.2%;
+        width: 136%;
+    }
+
+    .Home 
+    {
+        margin-right: 3.6%;
+    }
+
+    .Book 
+    {
+        margin-right: 4.1%;
+    }
+
+    .Destination 
+    {
+        letter-spacing: -0.3px;
+        margin-right: 5.9%;
+    }
+
+    .diaporama 
+    {
+        width: 88.5%;
+        height: 46.3%;
+        margin-top: 2.9%;
+        margin-left: 5.7%;
+    }
+
+    .fleche_droite 
+    {
+        bottom: 25.5%;
+        left: 6.4%;
+    }
+
+    .fleche_gauche 
+    {
+        bottom: 25.5%;
+        left: 82.4%;
+    }
+
+    .bouton_slide 
+    {
+        margin: -3.5% 38.4% 0%;
+    }
+
+    .Article_Safy 
+    {
+        height: 34.1%;
+        margin: 1.1% 5.7%;
+    }
+
+    .amazing 
+    {
+        height: 134px;
+        width: 93.8%;
+    }
+
+    .photo_feu_de_bois 
+    {
+        margin-top: 5.5%;
+        margin-left: 4%;
+    }
+
+    .h3 
+    {
+        font-size: 14.4px;
+    }
+    
+    .structured_and_amazing {
+        margin-top: 5.8%;
+        margin-left: 4.3%;
+        line-height: 182%;
+        letter-spacing: -0.1px;
+    }
+
+    .decouverte_amazing {
+        word-spacing: 0px;
+        margin-top: 5.2%;
+        line-height: 22px;
+        margin-right: 1%;
+    }
+
+    .book_your_trip 
+    {
+        width: 93.7%;
+        margin-left: 2.7%;
+        height: 130.7px;
+    }
+
+    .photo_typie 
+    {
+        height: 104px;
+        margin-top: 5.4%;
+        margin-left: 3.7%;
+    }
+
+    .book_trip 
+    {
+        margin-left: 4.7%;
+        line-height: 187%;
+        margin-top: 5.6%;
+        letter-spacing: 0px;
+        word-spacing: -0.8px;
+    }
+
+    .trip 
+    {
+        margin-top: 5.5%;
+        margin-left: 2.9%;
+    }
+
+    .more_intensely 
+    {
+        margin-left: 5.4%;
+        height: 122px;
+    }
+
+    .photo_ours 
+    {
+        margin-top: 5.8%;
+        height: 95px;
+        margin-left: 3.4%;
+    }
+
+    .people_live_intensely 
+    {
+        line-height: 26px;
+        margin-left: 4.5%;
+        margin-top: 6%;
+        letter-spacing: 0.1px;
+    }
+
+    .live_intensely 
+    {
+        margin-left: 5.1%;
+        margin-top: 5.5%;
+    }
+
+    .Desti 
+    {
+        font-size: 21.5px;
+        margin-top: 3.2%;
+    }
+
+    .Drapeau 
+    {
+        width: 126%;
+        margin-top: 4%;
+        display:flex;
+        justify-content: flex-start;
+        margin-left: 1.5%;
+    }
+
+    .image 
+    {
+        width: 217px;
+        height: 168px;
+    }
+
+    .France
+    {
+        margin-right: 9.4%;
+    }
+
+    .Brezil
+    {
+        margin-right: 9%;
+    }
+
+    .Algerie
+    {
+
+    }
+
+    .right 
+    {
+        bottom: 18.5%;
+        left: 98.9%;
+    }
+
+    .left 
+    {
+        right: 12.2%;
+    }
+
+    .ffrance
+    {
+        margin-left: -0.8%;
+    }
+
+    .brazil
+    {
+        margin-left: -0.8%;
+        letter-spacing: -0.4px;
+    }
+
+    .algeria
+    {
+        margin-left: -0.1px;
+    }
+
+    .footer
+    {
+        background-color: #ccffff;
+        margin-top: 9.1%;
+    }
+
+    .Uus 
+    {
+        margin: 1.6% 4.4% 0%;
+    }
+
+    .us 
+    {
+        margin-top: 8.2%;
+        word-spacing: 0.3px;
+    }
+
+    .about 
+    {
+        margin-top: 5%;
+    }
+
+    .Why_us 
+    {
+        margin-top: 8.8%;
+    }
+
+    .photo_us 
+    {
+        margin-top: 8.2%;
+        margin-left: 5%;
+    }
+
+    .boussole 
+    {
+        margin-top: 14.2%;
+        margin-left: 1.5%;
+    }
+
+    .carte 
+    {
+        margin-top: 0.5%;
+        margin-left: 2%;
+    }
+
+    .photo_carte 
+    {
+        margin-left: 4.9%;
+        margin-top: 4.4%;
+        letter-spacing: -0.2px;
+        word-spacing: -0.7px;
+    }
+
+    .velo 
+    {
+        margin-top: 1.5%;
+        margin-left: 2%;
+    }
+
+    .photo_velo 
+    {
+        margin-left: 4.9%;
+        margin-top: 4.6%;
+    }
+
+    .justo
+    {
+        position: relative;
+        left: -52%;
+        letter-spacing: -0.2px;
+    }
+
+    .Travel 
+    {
+        margin-top: 21.8%;
+        margin-left: -27.2%;
+    }
+
+    .trait 
+    {
+        margin-top: -5%;
+        width: 154.7%;
+        margin-left: -27.3%;
+    }
+
+    .how_to_travel 
+    {
+        margin-top: 2.2%;
+        margin-left: -27.3%;
+        line-height: 22.3px;
+        word-spacing: -0.3px;
+        letter-spacing: 0.1px;
+        width: 148%;
+    }
+
+    .submit {
+        margin-left: -27.2%;
+        width: 25.1%;
+        height: 44.9px;
+        margin-top: -0.1%;
+    }
+
+    .Voyage 
+    {
+        margin-top: 4.3%;
+    }
+
+    .dhome 
+    {
+        margin: 2.75% 4.8% 0% 5.8%;
+    }
+
+    .dbook 
+    {
+        margin: 2.75% 4.6% 0% -0.1%;
+    }
+
+    .ddestinations 
+    {
+        margin: 2.75% 4.5% 0% 0%;
+    }
+
+    .dprices 
+    {
+        margin: 2.75% 4.7% 0% 0.1%;
+    }
+
+    .dalerts 
+    {
+        margin: 2.75% 4.2% 0% 0%;
+    }
+
+    .dcontact 
+    {
+        margin: 2.75% 0% 0% 0.3%;
+    }
+
+    .copyright 
+    {
+        margin: 3.4% 0% 0% 5.9%;
+    }
+}
+
+@media screen and (min-width:614px) and (max-width:847px)
+{
+    .image_maquette
+    {
+        position: absolute;
+        opacity: 0.5;
+        width: 624px;
+        height: 3644px;
+        margin: auto;
+        z-index: 1;
+    }
+
+    .body
+    {
+        width:624px;
+        height:847px;
+    }
+
+    .facebook 
+    {
+        margin-left: 15.75%;
+        margin-right: 0.45%;
+        margin-top: 2.8%;
+    }
+
+    .Safy_accueil 
+    {
+        border-top: 1px solid #2e2823;
+        border-bottom: 1px solid #2e2823;
+        height: 187.4%;
+        margin-top: 5.9%;
+        flex-direction: column;
+    }
+
+    .Safy 
+    {
+        height: 94px;
+        margin-top: 2.8%;
+        margin-left: 27.2%;
+        width: 283.8px;
+    }
+
+    .ul 
+    {
+        margin-left: 12.1%;
+        margin-top: 2.2%;
+        display: flex;
+        flex-direction: column;
+        line-height: 251%;
+    }
+
+    .Article_Safy 
+    {
+        border: 1px solid transparent;
+        height: 34.1%;
+        margin: 89% 19.7%;
+    }
+
+    .Home 
+    {
+        margin-left: -0.2%;
+    }
+
+    .Book 
+    {
+        margin-left: -1%;
+        margin-top: -0.2%; 
+    }   
+
+    .Destination 
+    {
+        margin-left: -1.1%;
+        margin-top: -0.2%;
+    }
+
+    .diaporama 
+    {
+        width: 68.4%;
+        height: 64.4%;
+        margin-top: 4%;
+        margin-left: 15.7%;
+    }
+
+    .fleche_droite 
+    {
+        bottom: 37.9%;
+        left: 16.5%;
+    }
+
+    .fleche_gauche 
+    {
+        bottom: 38%;
+        left: 68.2%;
+    }
+
+    .bouton_slide 
+    {
+        margin: -4.8% 34.3% 0%;
+    }
+
+    .Trip 
+    {
+        margin-top: 2.9%;
+        flex-direction: column;
+    }
+
+    .amazing 
+    {
+        height: 132.2px;
+        width: 112.6%;
+        margin-left: -6.6%;
+    }
+
+    .photo_feu_de_bois 
+    {
+        margin-top: 3%;
+        margin-left: 2%;
+    }
+
+    .structured_and_amazing 
+    {
+        margin-top: 3.4%;
+        margin-left: 2.5%;
+    }
+
+    .decouverte_amazing 
+    {
+        word-spacing: -2px;
+        margin-top: 3.7%;
+        margin-right: -6%;
+        margin-left: -6.7%;
+        word-spacing: -3.7px;
+        letter-spacing: 0.3px;
+    }
+
+    .book_your_trip 
+    {
+        width: 112.6%;
+        margin-left: -6.6%;
+        height: 131px;
+        margin-top: 1.8%;
+    }
+
+    .photo_typie 
+    {
+        margin-top: 3.1%;
+        margin-left: 2.3%;
+    }
+
+    .book_trip 
+    {
+        margin-left: 2.7%;
+        margin-top: 3.5%;
+        letter-spacing: 0.2px;
+    }
+
+    .trip 
+    {
+        margin-top: 3.4%;
+        margin-left: -6.7%;
+        word-spacing: -1.1px;
+        width: 114%;
+    }
+
+    .more_intensely 
+    {
+        margin-left: -7%;
+        height: 122px;
+        margin-top: 2%;
+        width: 113.2%;
+    }
+
+    .photo_ours 
+    {
+        margin-top: 2.9%;
+        height: 96px;
+        margin-left: 2.3%;
+    }
+
+    .people_live_intensely 
+    {
+        margin-left: 2.5%;
+        margin-top: 3.2%;
+    }
+
+    .live_intensely 
+    {
+        margin-left: -6.7%;
+        line-height: 22px;
+        margin-top: 3.4%;
+        word-spacing: -2.2px;
+        width: 114%;
+    }
+
+    .Desti 
+    {
+        margin-top: 6.2%;
+        margin-left: -6.3%;
+    }
+
+    .footer 
+    {
+        margin-top: 194%;
+    }
+
+    .Drapeau {
+        margin-top: 8.2%;
+        border: 1px solid ;
+        overflow: scroll;
+        margin-left: -5%;
+        width: 107%;
+        height: 314px;
+        border: 1px solid #cccccc;
+        justify-content:flex-start;
+    }
+
+    .image 
+    {
+        width: 393.3px;
+        height: 304px;
+    }
+
+    .ance
+    {
+        font-size: 18px;
+        color: black;
+        font-weight: bold;
+        font-family: Arial;
+        position: relative;
+        top: 3.4%;
+        left: -19.7%;
+    }
+
+    .left 
+    {
+        bottom: 16.4%;
+        right: 50.2%;
+    }
+
+    .right 
+    {
+        bottom: 86.7%;
+        left: 104.8%;
+    }
+
+    .Uus 
+    {
+        flex-direction: column;
+    }
+
+    .about_us 
+    {
+        margin-left: -9.1%;
+        margin-top: 2.6%;
+        margin-right: 1.5%;
+        width: 116.2%;
+        height: 411px;
+    }
+
+    .us 
+    {
+        margin-top: 7.3%;
+        word-spacing: 1.5px;
+    }
+
+    .about 
+    {
+        margin-top: 4.3%;
+    }
+
+    .why_us 
+    {
+        margin-left: -9%;
+        margin-top: 4.7%;
+        width: 117%;
+    }
+
+    .photo_us 
+    {
+        line-height: 22.2px;
+        margin-top: 7%;
+        margin-left: 4.3%;
+        word-spacing: -0.9px;
+        letter-spacing: -0.2px;
+    }
+
+    .photo_carte 
+    {
+        margin-left: 4.5%;
+    }
+
+    .photo_velo 
+    {
+        margin-left: 4.4%;
+        margin-top: 0.8%;
+        letter-spacing: -0.2px;
+    }
+
+    .travel 
+    {
+        margin: 6.8% 15.4% 4.3%;
+    }
+
+    .Travel 
+    {
+        letter-spacing: 0.2px;
+    }
+
+    .trait 
+    {
+        margin-top: -5.5%;
+    }
+
+    .how_to_travel 
+    {
+        margin-top: 2.6%;
+        word-spacing: -1.2px;
+        letter-spacing: 0.3px;
+    }
+
+    .submit 
+    {
+        width: 28.8%;
+        height: 44.4px;
+        margin-bottom: 10.6%;
+    }
+
+    .Voyage 
+    {
+        height: 182px;
+    }
+
+    .dhome 
+    {
+        margin: 10.15% 5.4% 0% 15.7%;
+    }
+
+    .dbook 
+    {
+        margin: 10.15% 2.4% 0% 1%;
+    }
+
+    .ddestinations 
+    {
+        margin: 10.15% 2.3% 0% 4.2%;
+    }
+
+    .dprices 
+    {
+        margin: 10.15% 2.3% 0% 4.2%;
+    }
+
+    .dalerts 
+    {
+        margin: 10.15% 2.1% 0% 4.2%;
+    }
+
+    .dcontact 
+    {
+        color:transparent;
+    }
+
+    .copyright 
+    {
+        margin: 5.4% 0% 0% 16%;
+    }
+
+    .ddcontact 
+    {
+        font-size: 13px;
+        color: black;
+        font-weight: bold;
+        position: relative;
+        top: 2.7%;
+        left: 15.7%;
+        letter-spacing: -0.4px;
+    }
+}
+
+@media screen and (min-width:305px) and (max-width:613px)
+{
+    .image_maquette
+    {
+        position: absolute;
+        opacity: 0.5;
+        width: 305px;
+        height: 3828px;
+        margin: auto;
+        z-index: 1;
+    }
+
+    .body
+    {
+        width:305px;
+        height:3828px;
+    }
+
+    .header 
+    {
+        height: 16.35%;
+    }
+
+    .reseau_social 
+    {
+        height: 5.3%;
+    }
+
+    .facebook 
+    {
+        margin-left: 0.75%;
+        margin-right: 0.75%;
+        margin-top: 5.5%;
+    }
+
+    .Safy_accueil 
+    {
+        height: 57.7%;
+        margin-top: 8.5%;
+    }      
+
+    .Safy 
+    {
+        height: 91px;
+        margin-top: 6.2%;
+        margin-left: 4.1%;
+    }
+
+    .ul 
+    {
+        margin-left: 12.1%;
+        margin-top: 2.2%;
+        display: flex;
+        flex-direction: column;
+        line-height: 251%;
+    }
+
+    .diaporama 
+    {
+        width: 96.6%;
+        height: 18.3%;
+        margin-top: 7.8%;
+        margin-left: 0.4%;
+    }
+
+    .bouton_slide 
+    {
+        margin: -10% 17.1% 0%;
+    }
+
+    .fleche_droite 
+    {
+        bottom: 11.4%;
+        left: 2.3%;
+    }
+
+    .fleche_gauche 
+    {
+        bottom: 11.4%;
+        left: 66.2%;
+    }
+
+    .Trip 
+    {
+        margin-top: 23.3%;
+        flex-direction: column;
+        width: 175%;
+        margin-left: -37.2%;
+    }
+
+    .photo_feu_de_bois 
+    {
+        height: 105px;
+    }
+
+    .structured_and_amazing 
+    {
+        letter-spacing: 0.2px;
+    }
+
+    .decouverte_amazing 
+    {
+        margin-top: 4.3%;
+        margin-left: -0.4%;
+        word-spacing: -1.6px;
+    }
+
+    .book_your_trip 
+    {
+    width: 98.3%;
+    margin-left: -0.1%;
+    height: 132.3px;
+    margin-top: 2.5%;
+    }
+
+    .photo_typie 
+    {
+        height: 103.2px;
+        margin-top: 4.9%;
+        margin-left: 2.9%;
+    }
+
+    .book_trip 
+    {
+        margin-left: 3.5%;
+        margin-top: 5%;
+    }
+
+    .trip 
+    {
+        margin-top: 4.4%;
+        margin-left: -0.2%;
+        word-spacing: -1.4px;
+    }
+
+    .more_intensely 
+    {
+        margin-left: -0.1%;
+        height: 121.6px;
+        margin-top: 2.3%;
+        width: 99%;
+    }
+
+    .photo_ours 
+    {
+        margin-top: 4.3%;
+        height: 95px;
+        margin-left: 3%;
+    }
+
+    .live_intensely 
+    {
+        margin-left: -0.3%;
+        margin-top: 4.6%;
+    }
+
+    .people_live_intensely 
+    {
+        margin-top: 4.6%;
+    }
+
+    .Desti 
+    {
+        margin-top: 14.5%;
+        margin-left: -37%;
+        letter-spacing: -0.2px;
+    }
+
+    .Drapeau 
+    {
+        margin-top: 17.2%;
+        overflow: scroll;
+        margin-left: -29%;
+        width: 157%;
+        height: 228px;
+        justify-content: flex-start;
+    }
+
+    .image 
+    {
+        margin-left: -2.8%;
+        margin-top: 0.2%;
+        height: 213px;
+        width: 272.8px;
+    }
+
+    .ance 
+    {
+        font-size: 17px;
+        color: black;
+        font-family: Arial;
+        font-weight: bold;
+        position: relative;
+        top: 0.5%;
+        left: -63%;
+        letter-spacing: 0.8px;
+    }
+
+    .tTravel 
+    {
+        border-top: 1px solid black;
+        margin-top: 95%;
+    }
+
+    .Uus 
+    {
+        margin: 4.7% -1.2% 0%;
+        flex-direction: column;
+    }
+
+    .h4 
+    {
+        letter-spacing: 0.1px;
+        font-family: Arial;
+    }
+
+    .us 
+    {
+        margin-top: 10.2%;
+    }
+
+    .about 
+    {
+        margin-top: 6%;
+    }
+
+    .why_us 
+    {
+        margin-left: 1.5%;
+        margin-top: 44.2%;
+    }
+
+    .photo_us 
+    {
+        margin-top: 9.9%;
+        margin-left: 5.5%;
+    }
+
+    .carte 
+    {
+        margin-top: 0.8%;
+    }
+
+    .photo_carte 
+    {
+        margin-left: 5.4%;
+        margin-top: 5.4%;
+    }
+}
